@@ -1,0 +1,5 @@
+AMDolly SMC Trading Journal
+Main source: lib/main.dart
+Logo asset: assets/amdolly_logo.png
+Run: flutter pub get && flutter run
+Build APK: flutter build apk --release
